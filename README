@@ -1,0 +1,19 @@
+== OldSchool PhoneTree Call Center by Hennessy Group LLC
+
+This is a simple app that allows people to register for a robocalls from organizations or companies.  
+
+== Getting Started
+
+1.  You must have a Twilio account:  (http://www.twilio.com)
+
+2.  Require PHP 5.2 or later and MySql 
+
+3.  Download source to your web server
+
+== Config
+
+TODO: update config information
+
+== License
+
+This Plugin is released under the MIT license.
